@@ -39,3 +39,62 @@ Sommerville resalta varios retos como:
 La heterogeneidad: Desarrollar software que pueda operar en diferentes plataformas.
 Entrega de software rápido: La demanda de ciclos de desarrollo más cortos.
 Confiabilidad: Asegurar que el software funcione correctamente en todas las situaciones.
+
+Estructura general para la ingeniería de software
+Este tema abarca los diferentes enfoques para estructurar el desarrollo de software, representados por los flujos de proceso. Los modelos de proceso organizan las actividades y tareas del desarrollo de software y pueden seguir varios flujos:
+
+Flujo de proceso lineal:
+Es el modelo en cascada, donde cada fase (requisitos, diseño, implementación, pruebas, mantenimiento) sigue un orden secuencial.
+No permite retrocesos, por lo que se avanza de una fase a otra solo cuando la anterior ha sido completada.
+Adecuado para proyectos con requisitos bien definidos desde el principio.
+
+Flujo de proceso iterativo:
+En este modelo, se repiten ciertas fases o partes del desarrollo de manera cíclica.
+Permite refinar los requisitos y el diseño en cada ciclo, adaptándose mejor a cambios y mejoras continuas.
+Ejemplo: El Modelo en espiral.
+
+Flujo de proceso evolutivo:
+Se enfoca en crear versiones iniciales del software, que se van mejorando y evolucionando con el tiempo.
+Las versiones iniciales son entregables funcionales, aunque incompletos, que se van enriqueciendo con nuevas características.
+Este modelo permite retroalimentación temprana del usuario y es útil para sistemas que requieren adaptación constante.
+
+Flujo de proceso paralelo:
+Implica el desarrollo de diferentes componentes o módulos del software simultáneamente en varias fases.
+Favorece la división del trabajo en equipos y la integración continua de los diferentes componentes del sistema.
+
+Comparación de modelos de proceso según Pressman
+Pressman clasifica los modelos de proceso de software en diferentes categorías, dependiendo del enfoque del proyecto:
+Modelos secuenciales (como el modelo en cascada).
+Modelos incrementales (entregan el software por etapas, permitiendo retroalimentación y ajustes).
+Modelos evolutivos (como el modelo en espiral y el desarrollo evolutivo, que se adapta con el tiempo).
+Modelos concurrentes o paralelos (donde múltiples actividades ocurren simultáneamente).
+
+Comparación de modelos (Pressman / Sommerville)
+Pressman y Sommerville ofrecen diferentes perspectivas sobre los modelos de proceso:
+Pressman se enfoca más en la clasificación por tipo de flujo (lineal, iterativo, evolutivo).
+Sommerville destaca las características clave de los modelos en relación con la complejidad del software y la gestión del riesgo. También incluye enfoques ágiles y ajustados a requisitos cambiantes.
+Ambos autores coinciden en que la elección del modelo depende del tipo de proyecto, el entorno y los requisitos.
+
+Herramientas CASE
+
+1. Definición:
+Las herramientas CASE son un conjunto de herramientas que facilitan la automatización de tareas a lo largo del ciclo de vida del software, desde su desarrollo hasta la gestión de proyectos. Ayudan en la implementación de software de manera más eficiente.
+
+2. Funcionalidades:
+Modelado: Facilitan la creación de diagramas y modelos que representan el sistema de software.
+Generación de código: Algunas herramientas CASE permiten generar código automáticamente a partir de modelos o diagramas.
+Gestión de proyectos: Incluyen funcionalidades para planificar, rastrear y gestionar el desarrollo del software.
+Diagramas de flujo: Creación de diagramas que ayudan a visualizar el flujo de procesos dentro del software.
+Plantillas de código: Ofrecen plantillas predefinidas para acelerar el desarrollo de software.
+Gestión de requisitos: Ayudan en la captura, análisis y seguimiento de los requisitos del proyecto.
+
+3. Clasificación:
+Upper CASE: Herramientas que se usan en las fases iniciales del desarrollo, como el análisis y el diseño.
+Lower CASE: Herramientas que se utilizan en las fases posteriores del desarrollo, como la implementación y las pruebas.
+Integrated CASE: Combinan funcionalidades tanto de las herramientas Upper CASE como de las Lower CASE para abarcar todo el ciclo de vida del software.
+
+4. Alternativas:
+Entorno de desarrollo integrado (IDE): Ejemplos como Visual Studio, que permite desarrollar software de manera eficiente.
+Metodologías ágiles: Enfoques como Scrum que permiten un desarrollo iterativo y colaborativo.
+DevOps: Prácticas que integran el desarrollo de software con la operación y el despliegue, utilizando herramientas como Docker.
+APIs: Interfaces que permiten la integración de servicios de terceros, como REST o SOAP.
