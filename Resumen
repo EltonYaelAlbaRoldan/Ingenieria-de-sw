@@ -1,0 +1,39 @@
+1. ¿Qué es software?
+Sommerville define el software como programas y la documentación asociada. Incluye sistemas operativos, aplicaciones, y el conjunto de datos procesados por las aplicaciones.
+
+2. ¿Qué es la ingeniería del software?
+Es una disciplina que aplica principios de ingeniería para desarrollar software de alta calidad de manera sistemática, eficiente y efectiva. Se enfoca en la mejora continua de la práctica del desarrollo de software.
+
+3. Diferencia entre ingeniería del software y ciencia de la computación:
+La ciencia de la computación estudia los fundamentos y teorías subyacentes de los sistemas de información, mientras que la ingeniería del software se centra en la producción de software útil y práctico que cumpla con las necesidades de los usuarios.
+
+4. Diferencia entre ingeniería del software e ingeniería de sistemas:
+La ingeniería de sistemas involucra el desarrollo y gestión de sistemas complejos, de los cuales el software es solo un componente. La ingeniería del software está especializada en el ciclo de vida del software, desde su diseño hasta su mantenimiento.
+
+5. ¿Qué es un proceso del software?
+El proceso del software es un conjunto estructurado de actividades necesarias para desarrollar un sistema software. Incluye actividades como la especificación, diseño, implementación, prueba y mantenimiento.
+
+6. ¿Qué es un modelo de proceso del software?
+Un modelo de proceso es una simplificación de un proceso real de desarrollo de software. Algunos de los modelos descritos por Sommerville son el modelo en cascada, el desarrollo iterativo y el modelo ágil, que permiten organizar las fases de desarrollo del software.
+
+7. Costos de la ingeniería del software:
+Sommerville menciona que los costos están principalmente asociados con los recursos humanos (el personal) y las herramientas de soporte. La mayor parte de los costos se concentra en el mantenimiento y evolución del software, más que en su desarrollo inicial.
+
+8. Métodos de la ingeniería del software:
+Los métodos son enfoques estructurados que describen cómo se deben llevar a cabo las diferentes actividades dentro de un proceso del software. Estos incluyen metodologías ágiles, la ingeniería de requisitos, diseño de software, entre otros.
+
+9. ¿Qué es CASE?
+Las herramientas CASE (Computer-Aided Software Engineering) son herramientas que soportan el desarrollo de software mediante la automatización de diferentes actividades, como el modelado, la codificación y la gestión de la configuración.
+
+10. Atributos de un buen software:
+Sommerville identifica atributos esenciales como:
+Mantenibilidad: Capacidad del software para adaptarse a cambios.
+Confiabilidad: Grado en el que el software puede operar sin fallos.
+Eficiencia: Uso adecuado de los recursos del sistema.
+Usabilidad: Facilidad con la que los usuarios pueden aprender y usar el software.
+
+11. Retos fundamentales en la ingeniería del software:
+Sommerville resalta varios retos como:
+La heterogeneidad: Desarrollar software que pueda operar en diferentes plataformas.
+Entrega de software rápido: La demanda de ciclos de desarrollo más cortos.
+Confiabilidad: Asegurar que el software funcione correctamente en todas las situaciones.
